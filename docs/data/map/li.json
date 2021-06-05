@@ -1,0 +1,20 @@
+{
+	"sn": "user",
+	"ver": 20210320222758,
+	"map": [{
+		"tit": "网址",
+		"url": "/pages/mags/index"
+	}, {
+		"tit": "专题",
+		"url": "/pages/tools/index"
+	}, {
+		"tit": "聊吧",
+		"url": "/pages/love/index"
+	}, {
+		"tit": "应用",
+		"url": "/pages/others/index"
+	}, {
+		"tit": "我的",
+		"url": "/pages/user/index"
+	}]
+}
