@@ -37,7 +37,7 @@
 				"古诗词",
 				"古诗词",
 				"",
-				"DataLocal.tools.gushici",
+				"study",
 				5
 			],
 			"s-chengyu": [
@@ -45,7 +45,7 @@
 				"成语",
 				"成语",
 				"",
-				"DataLocal.tools.chengyu",
+				"study",
 				5
 			],
 			"s-duanxin": [
@@ -53,7 +53,7 @@
 				"短信",
 				"短信",
 				"",
-				"DataLocal.tools.duanxin",
+				"study",
 				5
 			],
 			"s-mingyan": [
@@ -61,7 +61,7 @@
 				"名言",
 				"名言",
 				"",
-				"DataLocal.tools.mingyan",
+				"study",
 				5
 			],
 			"g-naojing": [
@@ -69,7 +69,7 @@
 				"脑筋",
 				"脑筋",
 				"",
-				"DataLocal.tools.naojing",
+				"study",
 				5
 			],
 			"g-xiehouyu": [
@@ -77,7 +77,7 @@
 				"歇后语",
 				"歇后语",
 				"",
-				"DataLocal.tools.xiehouyu",
+				"study",
 				5
 			],
 			"s-test": [
