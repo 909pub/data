@@ -53,7 +53,7 @@
 				"短信",
 				"短信",
 				"",
-				"study",
+				"DataLocal.tools.duanxin",
 				5
 			],
 			"s-mingyan": [
@@ -61,23 +61,23 @@
 				"名言",
 				"名言",
 				"",
-				"study",
+				"DataLocal.tools.mingyan",
 				5
 			],
-			"s-naojing": [
-				"s-naojing",
+			"g-naojing": [
+				"g-naojing",
 				"脑筋",
 				"脑筋",
 				"",
-				"study",
+				"DataLocal.tools.naojing",
 				5
 			],
-			"s-xiehouyu": [
-				"s-xiehouyu",
+			"g-xiehouyu": [
+				"g-xiehouyu",
 				"歇后语",
 				"歇后语",
 				"",
-				"study",
+				"DataLocal.tools.xiehouyu",
 				5
 			],
 			"s-test": [
