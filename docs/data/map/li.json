@@ -17,6 +17,9 @@
 		"tit": "设置",
 		"url": "/pages/setting/index"
 	}, {
+		"tit": "导航",
+		"url": "/pages/map/index"
+	}, {
 		"tit": "我的",
 		"url": "/pages/user/index"
 	}]
