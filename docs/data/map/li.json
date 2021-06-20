@@ -14,6 +14,9 @@
 		"tit": "推荐",
 		"url": "/pages/others/index"
 	}, {
+		"tit": "H5",
+		"url": "/pages/h5/index"
+	}, {
 		"tit": "设置",
 		"url": "/pages/setting/index"
 	}, {
