@@ -1,0 +1,53 @@
+{
+	"tt": "H5合集",
+	"sn": "h5",
+	"ver": 20210320222758,
+	"ty": {
+		"li": "listmin",
+		"co": "show"
+	},
+	"db": {
+		"mb": {
+			"dn": ["id", "sn", "tt", "co", "mo", "ic", "us", "ur", "cd", "rd", "xy"],
+			"dc": ["编号", "编码", "标题", "内容", "备注", "图标", "用户", "网址", "创建", "更新", "状态"]
+		},
+		"dn": ["sn", "tt", "co", "ic", "ur", "xy"],
+		"dc": ["编号", "标题", "简介", "标志", "链接", "等级"],
+		"ds": ["tt", "co", "ur"],
+		"dz": []
+	},
+	"li": {
+		"pg": {
+			"pc": 1,
+			"ps": 18,
+			"pa": 0
+		},
+		"dr": [],
+		"dt": {
+			"apptest": [
+				"apptest",
+				"测试app-test",
+				"测试app-test",
+				"",
+				"h5.test",
+				5
+			],
+			"apptest2": [
+				"apptest2",
+				"测试app-test2",
+				"测试app-test2",
+				"",
+				"h5.test2",
+				5
+			],
+			"apptest111": [
+				"apptest111",
+				"测试app-test111",
+				"测试app-test111",
+				"",
+				"h5.test2",
+				5
+			]
+		}
+	}
+}
