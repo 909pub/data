@@ -11,6 +11,14 @@
       "url": "/pages/tools/index"
     },
     {
+      "tit": "墓族",
+      "url": "/pages/muzu/index"
+    },
+    {
+      "tit": "小说",
+      "url": "/pages/novel/index"
+    },
+    {
       "tit": "聊吧",
       "url": "/pages/love/index"
     },
