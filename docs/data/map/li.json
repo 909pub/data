@@ -15,10 +15,6 @@
       "url": "/pages/muzu/index"
     },
     {
-      "tit": "小说",
-      "url": "/pages/novel/index"
-    },
-    {
       "tit": "聊吧",
       "url": "/pages/love/index"
     },
@@ -45,6 +41,10 @@
     {
       "tit": "我的",
       "url": "/pages/user/index"
+    },
+    {
+      "tit": "小说",
+      "url": "/pages/novel/index"
     }
   ]
 }
